@@ -9,3 +9,6 @@ def say_hello (your_name, my_name)
 end
 
 say_hello("Nimisha","Rachel")
+
+def say_hello (ruby_programmer)
+  
