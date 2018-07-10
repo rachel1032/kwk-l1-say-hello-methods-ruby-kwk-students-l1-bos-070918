@@ -10,5 +10,5 @@ end
 
 say_hello("Nimisha","Rachel")
 
-def say_hello (ruby_programmer)
+say_hello (ruby_programmer)
   
